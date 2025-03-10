@@ -8,3 +8,8 @@
 ### Implementation
 <a href="https://github.com/19623248Git/oop-4-sekawan/blob/main/vehicle.cpp">vehicle.cpp</a>
 
+## Nomor 2
+### Header File
+<a href="https://github.com/19623248Git/oop-4-sekawan/blob/main/vehicle_collection.hpp">vehicle_collection.hpp</a>
+### Implementation
+<a href="https://github.com/19623248Git/oop-4-sekawan/blob/main/vehicle_collection.cpp">vehicle_collection.cpp</a>
